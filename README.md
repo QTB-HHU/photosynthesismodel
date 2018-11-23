@@ -17,7 +17,7 @@ The model object is instantiated by calling the
 We are providing the Jupyter Notebook by Nima P. Saadat where all results included in the main manuscript can be easily rerun. We higly encourage you to start [with it](https://github.com/QTB-HHU/photosynthesismodel/blob/master/run.ipynb) while getting to know our model.
 
 ## References
-[1] Ebenhöh O, Fucile G, Finazzi G, Rochaix JD, Goldschmidt-Clermont M. Short-term acclimation of the photosynthetic electron transfer chain to changing light: a mathematical model. *Philos Trans B* **2014**;369(1640):20130223.
+[1] Ebenhöh O, Fucile G, Finazzi G, Rochaix JD, Goldschmidt-Clermont M. Short-term acclimation of the photosynthetic electron transfer chain to changing light: a mathematical model. *Philos Trans B* **2014**;369(1640):20130223. Open Access https://doi/10.1098/rstb.2013.0223 
 
 [2] Matuszyńska A, Heidari S, Jahns P, Ebenhöh O. A mathematical model of non-photochemical quenching to study short-term light memory in plants. *Biochim Biophys Acta-Bioenerg* **2016**;1857(12):1–7. Open Access https://doi.org/10.1016/j.bbabio.2016.09.003
 
